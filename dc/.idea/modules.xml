@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/structures.iml" filepath="$PROJECT_DIR$/structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divideAndConquer.iml" filepath="$PROJECT_DIR$/divideAndConquer.iml" />
     </modules>
   </component>
 </project>
